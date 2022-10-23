@@ -16,7 +16,7 @@ jupyter notebook
 
 3. Trabajar en la version online del notebook. Para ver el notebook click en el siguiente enlace:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carogomezt/IntroduccionPython/master?filepath=Introduccion_Python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carogomezt/ConceptosPythonBackend/main?labpath=Conceptos_de_Python_para_Backend_Carolina_Gomez.ipynb)
 
 ## Diapositivas:
 [Conceptos de Python para Backend :snake:](https://docs.google.com/presentation/d/177Vo6M5FSthV9Ic7hjDmjaKCremH3KTzatPe0bO2hck/edit?usp=sharing)
